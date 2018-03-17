@@ -61,7 +61,7 @@ We bring in the `plotly` library by using the keyword `import` followed by our l
 
 ![](./plotly-no-account.png)
 
-Ok, now let's get to try to use plotly to build our first graph.  This is what we do.
+Ok, now let's use plotly to build our first graph.  This is what we do.
 
 We create new dictionary and assign it equal to `trace0`.    Then we set `x` key that points to a list of $x$ values.  Similarly, we create a `y` key with a value of a list of $y$ values.  
 
